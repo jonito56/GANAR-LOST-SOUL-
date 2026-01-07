@@ -126,15 +126,15 @@ TDS:Upgrade(18)
 TDS:Upgrade(18)
 TDS:Upgrade(18)
 
-TDS:Place("Mercenary Base", 0.26440, 60, 30.69347) -- 20
+TDS:Place("Mercenary Base", -1.03119, 95, 26.65884) -- 20
 TDS:Upgrade(19)
 TDS:Upgrade(19)
 TDS:Upgrade(19)
-TDS:Place("Mercenary Base", 0.26440, 60, 30.69347) -- 21
+TDS:Place("Mercenary Base", -1.03119, 95, 26.65884) -- 21
 TDS:Upgrade(20)
 TDS:Upgrade(20)
 TDS:Upgrade(20)
-TDS:Place("Mercenary Base", 0.26440, 60, 30.69347) -- 22
+TDS:Place("Mercenary Base", -1.03119, 95, 26.65884) -- 22
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
