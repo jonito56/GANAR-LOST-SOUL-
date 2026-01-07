@@ -61,32 +61,33 @@ TDS:Upgrade(2)
 TDS:Upgrade(3)
 TDS:Upgrade(4)
 TDS:Upgrade(5)
-TDS:Upgrade(6)
-TDS:Upgrade(6)
-TDS:Upgrade(7)
-TDS:Upgrade(7)
-TDS:Upgrade(8)
-TDS:Upgrade(8)
-TDS:Upgrade(9)
-TDS:Upgrade(9)
-TDS:Upgrade(10)
-TDS:Upgrade(10)
 
 TDS:Loadout("Ranger", "Turret", "Farm", "Accelerator", "Mercenary Base")
 
-TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
-TDS:Upgrade(15)
-TDS:Upgrade(15)
-TDS:Upgrade(15)
-TDS:Upgrade(15)
-TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
-TDS:Upgrade(16)
-TDS:Upgrade(16)
-TDS:Upgrade(16)
-TDS:Upgrade(16)
-
 TDS:Upgrade(12)
 
+TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
+TDS:Upgrade(15)
+TDS:Upgrade(15)
+TDS:Upgrade(15)
+TDS:Upgrade(15)
+
+TDS:Upgrade(6)
+TDS:Upgrade(6)
+TDS:Upgrade(7)
+TDS:Upgrade(7)
+TDS:Upgrade(8)
+TDS:Upgrade(8)
+TDS:Upgrade(9)
+TDS:Upgrade(9)
+TDS:Upgrade(10)
+TDS:Upgrade(10)
+
+TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
+TDS:Upgrade(16)
+TDS:Upgrade(16)
+TDS:Upgrade(16)
+TDS:Upgrade(16)
 TDS:Place("Ranger", -9.18333, 60, -16.09677) -- 1
 TDS:Place("Ranger", -9.18333, 60, -16.09677) -- 1
 TDS:Place("Ranger", -9.18333, 60, -16.09677) -- 1
