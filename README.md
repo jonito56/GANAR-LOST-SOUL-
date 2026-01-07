@@ -26,6 +26,11 @@ TDS:Upgrade(4)
 TDS:Upgrade(4)
 TDS:Upgrade(5)
 TDS:Upgrade(5)
+TDS:Upgrade(1)
+TDS:Upgrade(2)
+TDS:Upgrade(3)
+TDS:Upgrade(4)
+TDS:Upgrade(5)
 TDS:Upgrade(6)
 TDS:Upgrade(6)
 TDS:Upgrade(7)
@@ -45,9 +50,13 @@ TDS:Place("DJ Booth", -1.58078, 60, -15.56161) -- 3
 TDS:Upgrade(13)
 TDS:Upgrade(13)
 TDS:Upgrade(13)
+TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
 
 TDS:SetOption(13, "Track", "Green")
 TDS:Ability(13, "Drop The Beat", {Nill} , true)
+
+TDS:Upgrade(14)
+TDS:Upgrade(14)
 
 TDS:Loadout("Ranger", "Turret", "Farm", "Electroshocker", "Mercenary Base")
 
