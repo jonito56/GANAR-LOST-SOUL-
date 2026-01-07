@@ -216,13 +216,6 @@ TDS:Upgrade(35)
 TDS:Upgrade(35)
 TDS:Upgrade(35)
 
-TDS:Place("Hacker", 1.03339, 60, -14.76867) -- 1
-TDS:Upgrade(36)
-TDS:Upgrade(36)
-TDS:Upgrade(36)
-TDS:Upgrade(36)
-TDS:Upgrade(36)
-
 TDS:SetOption(20, "Unit 1", "Riot Guard")
 TDS:SetOption(20, "Unit 2", "Riot Guard")
 TDS:SetOption(20, "Unit 3", "Riot Guard")
