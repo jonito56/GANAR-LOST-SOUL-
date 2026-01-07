@@ -7,15 +7,15 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/raxs0420/test/refs/he
 TDS:Loadout("Cowboy", "Firework Technician", "Electroshocker", "DJ Booth", "Hacker")
 
 TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 1
-TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 1
-TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 1
-TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 1
-TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 1
-TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 1
-TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 1
-TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 1
-TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 1
-TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 1
+TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 2
+TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 3
+TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 4
+TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 5
+TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 6
+TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 7
+TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 8
+TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 9
+TDS:Place("Cowboy", 6.69501, 60, -15.56747) -- 10
 TDS:Upgrade(1)
 TDS:Upgrade(1)
 TDS:Upgrade(2)
@@ -41,16 +41,16 @@ TDS:Upgrade(9)
 TDS:Upgrade(9)
 TDS:Upgrade(10)
 TDS:Upgrade(10)
-TDS:Place("Hacker", 4.25737, 60, -24.17335) -- 1
+TDS:Place("Hacker", 4.25737, 60, -24.17335) -- 11
 TDS:Upgrade(11)
 TDS:Upgrade(11)
-TDS:Place("Firework Technician", 6.69501, 60, -15.56747) -- 1
+TDS:Place("Firework Technician", 6.69501, 60, -15.56747) -- 12
 TDS:Upgrade(12)
-TDS:Place("DJ Booth", -1.58078, 60, -15.56161) -- 3
+TDS:Place("DJ Booth", -1.58078, 60, -15.56161) -- 13
 TDS:Upgrade(13)
 TDS:Upgrade(13)
 TDS:Upgrade(13)
-TDS:Place("Electroshocker", 4.25737, 60, -24.17335) -- 1
+TDS:Place("Electroshocker", 4.25737, 60, -24.17335) -- 14
 
 TDS:SetOption(13, "Track", "Green")
 TDS:Ability(13, "Drop The Beat", {Nill} , true)
@@ -66,7 +66,7 @@ TDS:Loadout("Ranger", "Turret", "Farm", "Accelerator", "Mercenary Base")
 
 TDS:Upgrade(12)
 
-TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
+TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 15
 TDS:Upgrade(15)
 TDS:Upgrade(15)
 TDS:Upgrade(15)
@@ -83,7 +83,7 @@ TDS:Upgrade(9)
 TDS:Upgrade(10)
 TDS:Upgrade(10)
 
-TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
+TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 16
 TDS:Upgrade(16)
 TDS:Upgrade(16)
 TDS:Upgrade(16)
@@ -94,7 +94,7 @@ TDS:Upgrade(12)
 TDS:Upgrade(15)
 TDS:Upgrade(16)
 
-TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
+TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 17
 TDS:Upgrade(17)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
@@ -108,7 +108,7 @@ TDS:Upgrade(14)
 TDS:Upgrade(13)
 TDS:Upgrade(12)
 
-TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
+TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 18
 TDS:Upgrade(17)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
@@ -119,22 +119,22 @@ TDS:Upgrade(11)
 TDS:Upgrade(11)
 TDS:Upgrade(11)
 
-TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
+TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 19
 TDS:Upgrade(18)
 TDS:Upgrade(18)
 TDS:Upgrade(18)
 TDS:Upgrade(18)
 TDS:Upgrade(18)
 
-TDS:Place("Mercenary Base", -0.89604, 60, 26.74400) -- 1
+TDS:Place("Mercenary Base", -0.89604, 60, 26.74400) -- 20
 TDS:Upgrade(19)
 TDS:Upgrade(19)
 TDS:Upgrade(19)
-TDS:Place("Mercenary Base", -0.89604, 60, 26.74400) -- 1
+TDS:Place("Mercenary Base", -0.89604, 60, 26.74400) -- 21
 TDS:Upgrade(20)
 TDS:Upgrade(20)
 TDS:Upgrade(20)
-TDS:Place("Mercenary Base", -0.89604, 60, 26.74400) -- 1
+TDS:Place("Mercenary Base", -0.89604, 60, 26.74400) -- 22
 TDS:Upgrade(21)
 TDS:Upgrade(21)
 TDS:Upgrade(21)
