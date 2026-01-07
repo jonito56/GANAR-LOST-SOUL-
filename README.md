@@ -65,13 +65,11 @@ TDS:Upgrade(5)
 TDS:Loadout("Ranger", "Turret", "Farm", "Accelerator", "Mercenary Base")
 
 TDS:Upgrade(12)
-
 TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 15
 TDS:Upgrade(15)
 TDS:Upgrade(15)
 TDS:Upgrade(15)
 TDS:Upgrade(15)
-
 TDS:Upgrade(6)
 TDS:Upgrade(6)
 TDS:Upgrade(7)
@@ -82,50 +80,40 @@ TDS:Upgrade(9)
 TDS:Upgrade(9)
 TDS:Upgrade(10)
 TDS:Upgrade(10)
-
 TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 16
 TDS:Upgrade(16)
 TDS:Upgrade(16)
 TDS:Upgrade(16)
 TDS:Upgrade(16)
-
 TDS:Upgrade(12)
-
 TDS:Upgrade(15)
 TDS:Upgrade(16)
-
 TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 17
 TDS:Upgrade(17)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
-
 TDS:Upgrade(14)
 TDS:Upgrade(14)
 TDS:Upgrade(14)
-
 TDS:Upgrade(13)
 TDS:Upgrade(12)
-
 TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 18
 TDS:Upgrade(17)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
 TDS:Upgrade(17)
-
 TDS:Upgrade(11)
 TDS:Upgrade(11)
 TDS:Upgrade(11)
-
 TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 19
 TDS:Upgrade(18)
 TDS:Upgrade(18)
 TDS:Upgrade(18)
 TDS:Upgrade(18)
 TDS:Upgrade(18)
-
 TDS:Place("Mercenary Base", -1.03119, 95, 26.65884) -- 20
 TDS:Upgrade(19)
 TDS:Upgrade(19)
