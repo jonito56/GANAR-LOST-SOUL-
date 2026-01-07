@@ -88,9 +88,55 @@ TDS:Upgrade(16)
 TDS:Upgrade(16)
 TDS:Upgrade(16)
 TDS:Upgrade(16)
-TDS:Place("Ranger", -9.18333, 60, -16.09677) -- 1
-TDS:Place("Ranger", -9.18333, 60, -16.09677) -- 1
-TDS:Place("Ranger", -9.18333, 60, -16.09677) -- 1
-TDS:Place("Ranger", -9.18333, 60, -16.09677) -- 1
+
+TDS:Upgrade(12)
+
+TDS:Upgrade(15)
+TDS:Upgrade(16)
+
+TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
+TDS:Upgrade(17)
+TDS:Upgrade(17)
+TDS:Upgrade(17)
+TDS:Upgrade(17)
+TDS:Upgrade(17)
+
+TDS:Upgrade(14)
+TDS:Upgrade(14)
+TDS:Upgrade(14)
+
+TDS:Upgrade(13)
+TDS:Upgrade(12)
+
+TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
+TDS:Upgrade(17)
+TDS:Upgrade(17)
+TDS:Upgrade(17)
+TDS:Upgrade(17)
+TDS:Upgrade(17)
+
+TDS:Upgrade(11)
+TDS:Upgrade(11)
+TDS:Upgrade(11)
+
+TDS:Place("Accelerator", 1.03339, 60, -14.76867) -- 1
+TDS:Upgrade(18)
+TDS:Upgrade(18)
+TDS:Upgrade(18)
+TDS:Upgrade(18)
+TDS:Upgrade(18)
+
+TDS:Place("Mercenary Base", -4.77489, 60, 39.78085) -- 1
+TDS:Upgrade(19)
+TDS:Upgrade(19)
+TDS:Upgrade(19)
+TDS:Place("Mercenary Base", -4.77489, 60, 39.78085) -- 1
+TDS:Upgrade(20)
+TDS:Upgrade(20)
+TDS:Upgrade(20)
+TDS:Place("Mercenary Base", -4.77489, 60, 39.78085) -- 1
+TDS:Upgrade(21)
+TDS:Upgrade(21)
+TDS:Upgrade(21)
 
 TDS:Loadout("Minigunner", "Scout", "Commander", "Shotgunner", "Sniper")
