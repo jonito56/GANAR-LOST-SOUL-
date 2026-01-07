@@ -216,7 +216,7 @@ TDS:Upgrade(35)
 TDS:Upgrade(35)
 TDS:Upgrade(35)
 
-TDS:Place("Hacker", 2.78911, 60, -8.85834) -- 1
+TDS:Place("Hacker", 1.03339, 60, -14.76867) -- 1
 TDS:Upgrade(36)
 TDS:Upgrade(36)
 TDS:Upgrade(36)
@@ -234,6 +234,8 @@ TDS:SetOption(22, "Unit 2", "Riot Guard")
 TDS:SetOption(22, "Unit 3", "Rifleman")
 
 TDS:Loadout("Minigunner", "Scout", "Commander", "Shotgunner", "Sniper")
+
+TDS:SetOption(13, "Track", "Red")
 
 TDS:Place("Commander", -1.58078, 60, -15.56161) -- 13
 TDS:Upgrade(37)
@@ -257,3 +259,9 @@ TDS:Upgrade(39)
 TDS:Ability(37, "Support Caravan", {Nill} , true)
 TDS:Ability(38, "Support Caravan", {Nill} , true)
 TDS:Ability(39, "Support Caravan", {Nill} , true)
+
+TDS:Place("Minigunner", -1.58078, 60, -15.56161) -- 13
+TDS:Upgrade(40)
+TDS:Upgrade(40)
+TDS:Upgrade(40)
+TDS:Upgrade(40)
