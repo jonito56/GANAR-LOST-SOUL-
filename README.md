@@ -258,3 +258,15 @@ TDS:Upgrade(39)
 TDS:Upgrade(39)
 TDS:Upgrade(39)
 TDS:Upgrade(39)
+TDS:Place("Minigunner", -1.58078, 60, -15.56161) -- 13
+TDS:Upgrade(40)
+TDS:Upgrade(40)
+TDS:Upgrade(40)
+TDS:Upgrade(40)
+
+TDS:Ability(11, "Hologram Tower", {
+    towerToClone = 15,
+    towerPosition = {
+        Vector3.new(1.03339, 60, -14.76867),
+    }
+}, true)
