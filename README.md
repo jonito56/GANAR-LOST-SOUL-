@@ -231,30 +231,30 @@ TDS:Loadout("Minigunner", "Scout", "Commander", "Shotgunner", "Sniper")
 TDS:SetOption(13, "Track", "Red")
 
 TDS:Place("Commander", -1.58078, 60, -15.56161) -- 13
+TDS:Upgrade(36)
+TDS:Upgrade(36)
+TDS:Place("Commander", -1.58078, 60, -15.56161) -- 13
 TDS:Upgrade(37)
 TDS:Upgrade(37)
 TDS:Place("Commander", -1.58078, 60, -15.56161) -- 13
 TDS:Upgrade(38)
 TDS:Upgrade(38)
-TDS:Place("Commander", -1.58078, 60, -15.56161) -- 13
-TDS:Upgrade(39)
-TDS:Upgrade(39)
 
-TDS:AutoChain(37, 38, 39)
+TDS:AutoChain(36, 37, 38)
 
+TDS:Upgrade(36)
+TDS:Upgrade(36)
 TDS:Upgrade(37)
 TDS:Upgrade(37)
 TDS:Upgrade(38)
 TDS:Upgrade(38)
-TDS:Upgrade(39)
-TDS:Upgrade(39)
 
+TDS:Ability(36, "Support Caravan", {Nill} , true)
 TDS:Ability(37, "Support Caravan", {Nill} , true)
 TDS:Ability(38, "Support Caravan", {Nill} , true)
-TDS:Ability(39, "Support Caravan", {Nill} , true)
 
 TDS:Place("Minigunner", -1.58078, 60, -15.56161) -- 13
-TDS:Upgrade(40)
-TDS:Upgrade(40)
-TDS:Upgrade(40)
-TDS:Upgrade(40)
+TDS:Upgrade(39)
+TDS:Upgrade(39)
+TDS:Upgrade(39)
+TDS:Upgrade(39)
